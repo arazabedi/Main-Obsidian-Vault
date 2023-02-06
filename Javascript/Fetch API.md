@@ -1,0 +1,1 @@
+You can use the Fetch API which is built into the browser to make asynchronous requests to different network resources.
