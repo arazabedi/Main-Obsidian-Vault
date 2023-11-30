@@ -47,3 +47,28 @@ Return a new shallow-copied array from any iteratable or array-like object (opti
 console.log(Array.from([1, 2, 3], x => x + x));
 // Expected output: Array [2, 4, 6]
 >```
+
+**.some()**
+
+```js
+Array.prototype.some(function)
+```
+
+Returns true if there exists an element for which the provided function returns true, false otherwise.
+
+>[!example]
+>```js
+>const array = [1, 2, 3, 4, 5];
+>
+>// Checks whether an element is even
+const even = (element) => element % 2 === 0;
+>
+console.log(array.some(even));
+>// Expected output: true
+
+
+
+
+
+
+

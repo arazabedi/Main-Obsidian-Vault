@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2d446fa8e9fa4b4a",
+        "id": "d0d1ee8fc49fee06",
         "type": "tabs",
         "children": [
           {
-            "id": "fc966559dc0e0bc4",
+            "id": "1b93decdfdaf146e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Next.js/Next.js Official Course.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -45,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "_err",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,12 +65,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "1d601a0333de52fb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4b04b6978e9876de",
@@ -82,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Next.js/Next.js Official Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Next.js/Next.js Official Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Next.js/Next.js Official Course.md"
+              }
             }
           },
           {
@@ -139,18 +156,28 @@
             }
           },
           {
-            "id": "4464b611629a672c",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {}
-            }
-          },
-          {
             "id": "21ea6d8e3aea8ccc",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a4518601cbf39cd8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "0e0d662f0b37916f",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
               "state": {}
             }
           }
@@ -175,17 +202,53 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "346f05e8bc5ea13f",
+  "active": "1b93decdfdaf146e",
   "lastOpenFiles": [
+    "Media/TV Shows.md",
+    "Next.js/Next.js Official Course.md",
+    "Untitled.md",
+    "Pasted image 20231129192145.png",
+    "Untitled.md 19-37-02-208.md",
+    "Folder Structure.md",
+    "Swift",
+    "Books.md",
+    "Javascript/Fetch API.md",
+    "Next.js",
+    "Music Production/Granulate your Strings.md",
+    "Programming General/SOLID.md",
+    "Programming General/Big O Notation.md",
+    "Programming General/Algorithms and Data Structures freeCodeCamp Beginners Tutorial.md",
+    "Books/Revolutionary Iran.md",
+    "Books/Ten Myths About Israel.md",
+    "Templates/Book.md",
+    "Learn.md",
+    "Cisco Soft Skills.md",
+    "Vegan Aiolo.md",
+    "Tools and things.md",
     "Shell Scripting.md",
-    "Learning Resources Kanban.md",
-    "Full Stack Open/2a Communicating with the Server - Rendering Collections and Modules.md",
-    "Javascript/JavaScript Contents.md",
-    "Javascript/JS Functional Programming/12.  Monads.md",
-    "Javascript/JS Functional Programming/10.  More Functors.md",
-    "Javascript/JS Functional Programming/11.  Streams.md",
-    "Javascript/JS Functional Programming/9.  Functors.md",
-    "Javascript/JS Functional Programming/8.  Promises.md",
-    "Javascript/Event Listeners.md"
+    "Recuppa-App Notes.md",
+    "MedusaJS.md",
+    "Daily Notes/29-11-2023.md",
+    "Media/Movies.md",
+    "Media/Reviews/Napoleon.md",
+    "Media/Reviews",
+    "Rust/General Notes Prior to Studying.md",
+    "Solirius Interview/1. Things to Prepare.md",
+    "Media",
+    "Recipes",
+    "TV Shows",
+    "Daily Notes",
+    "Templates",
+    "UI/Refactoring UI/Images/Pasted image 20230114170401.png",
+    "UI/Refactoring UI/Images/Pasted image 20230114170330.png",
+    "Images/Pasted image 20231031140917.png",
+    "Solirius Interview",
+    "Books",
+    "Images/Pasted image 20230603232000.png",
+    "Images/Pasted image 20230603131519.png",
+    "Images/Pasted image 20230517002648.png",
+    "Images/Pasted image 20230517004559.png",
+    "Images/Pasted image 20230517000131.png",
+    "Images/Pasted image 20230516234646.png"
   ]
 }
