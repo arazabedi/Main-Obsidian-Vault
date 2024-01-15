@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d0d1ee8fc49fee06",
+        "id": "73099938a3720612",
         "type": "tabs",
         "children": [
           {
-            "id": "1b93decdfdaf146e",
+            "id": "7dbe6031261b8b30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next.js/Next.js Official Course.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -49,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "_err",
+                "query": "tag:#TypeScript",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 292.5
   },
   "right": {
     "id": "4b04b6978e9876de",
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next.js/Next.js Official Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next.js/Next.js Official Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Next.js/Next.js Official Course.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -202,38 +193,45 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1b93decdfdaf146e",
+  "active": "7dbe6031261b8b30",
   "lastOpenFiles": [
-    "Media/TV Shows.md",
-    "Next.js/Next.js Official Course.md",
-    "Untitled.md",
-    "Pasted image 20231129192145.png",
-    "Untitled.md 19-37-02-208.md",
-    "Folder Structure.md",
-    "Swift",
-    "Books.md",
-    "Javascript/Fetch API.md",
-    "Next.js",
-    "Music Production/Granulate your Strings.md",
-    "Programming General/SOLID.md",
-    "Programming General/Big O Notation.md",
-    "Programming General/Algorithms and Data Structures freeCodeCamp Beginners Tutorial.md",
-    "Books/Revolutionary Iran.md",
-    "Books/Ten Myths About Israel.md",
-    "Templates/Book.md",
-    "Learn.md",
-    "Cisco Soft Skills.md",
-    "Vegan Aiolo.md",
+    "QA/Selenium, Cucumber etc./1. Installations and Intro.md",
     "Tools and things.md",
-    "Shell Scripting.md",
-    "Recuppa-App Notes.md",
-    "MedusaJS.md",
-    "Daily Notes/29-11-2023.md",
-    "Media/Movies.md",
-    "Media/Reviews/Napoleon.md",
-    "Media/Reviews",
-    "Rust/General Notes Prior to Studying.md",
+    "Javascript/Full Stack Open/Full-Stack Open - 2a Communicating with the Server - Rendering Collections and Modules.md",
+    "Solirius Interview/8. Potential Questions and Answers.md",
     "Solirius Interview/1. Things to Prepare.md",
+    "SwiftCase Prep.md",
+    "SoftWire Pres.md",
+    "VSCode/Shortcuts.md",
+    "VSCode/VScode Tips.md",
+    "Typescript/TypeScript for JavaScript Programmers.md",
+    "Typescript/General TypeScript Notes.md",
+    "Typescript/Net Ninja Typescript Masterclass/4. Generics.md",
+    "Typescript/Net Ninja Typescript Masterclass/3. Classes.md",
+    "Typescript/Net Ninja Typescript Masterclass/2. Interface and Type Alias Advanced.md",
+    "Typescript/Net Ninja Typescript Masterclass/1. TypeScript Basics.md",
+    "Learn.md",
+    "Java/Java Programming I/Part 1&2- The Basics + Loops & Methods.md",
+    "Javascript/JS Functional Programming/9.  Functors.md",
+    "Javascript/JS Functional Programming/10.  More Functors.md",
+    "Javascript/JS Functional Programming/11.  Streams.md",
+    "Javascript/JS Functional Programming/12.  Monads.md",
+    "Javascript/Full Stack Open/0 Fundamentals of Web Apps.md",
+    "Javascript/Full Stack Open/1a Intro to React.md",
+    "Javascript/Full Stack Open/1b JavaScript.md",
+    "Javascript/Functional Programming in JavaScript.md",
+    "Javascript/Fetch API.md",
+    "Images/Pasted image 20230603232000.png",
+    "Images/Pasted image 20230217152022.png",
+    "Images/Pasted image 20230217160520.png",
+    "Images/Pasted image 20230209011451.png",
+    "Images/Pasted image 20230208140045.png",
+    "Untitled",
+    "SQL",
+    "Pasted image 20231129192145.png",
+    "Swift",
+    "Next.js",
+    "Media/Reviews",
     "Media",
     "Recipes",
     "TV Shows",
@@ -242,13 +240,6 @@
     "UI/Refactoring UI/Images/Pasted image 20230114170401.png",
     "UI/Refactoring UI/Images/Pasted image 20230114170330.png",
     "Images/Pasted image 20231031140917.png",
-    "Solirius Interview",
-    "Books",
-    "Images/Pasted image 20230603232000.png",
-    "Images/Pasted image 20230603131519.png",
-    "Images/Pasted image 20230517002648.png",
-    "Images/Pasted image 20230517004559.png",
-    "Images/Pasted image 20230517000131.png",
-    "Images/Pasted image 20230516234646.png"
+    "Images/Pasted image 20230603131519.png"
   ]
 }

@@ -1,3 +1,4 @@
+#Java
 ## Introduction to Hash Maps
 ___
 A `HashMap` is one of Java's most widely used pre-built data structures.

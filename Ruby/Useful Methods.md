@@ -1,10 +1,10 @@
 ##### Enumerable.reduce | Enumerable.inject 
 ___
-Conbine all elements of an eneumerable (e.g. `array`) by passing a symbol (e.g. :+, :-, :*, :/) or block ( e.g. |accumulator, current_value| accumulator + current_value). 
+Combine all elements of an eneumerable (e.g. `array`) by passing a symbol (e.g. :+, :-, :*, :/) or block ( e.g. |accumulator, current_value| accumulator + current_value). 
 
 ##### gsub
 ___
-Returna copy of a passed string with substituted characters:
+Return a copy of a passed string with substituted characters:
 
 ```ruby
 "hello".gsub(/[aeiou]/, '*')                  #=> "h*ll*"

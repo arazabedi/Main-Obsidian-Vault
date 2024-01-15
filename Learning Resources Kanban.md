@@ -12,7 +12,7 @@ kanban-plugin: basic
 - [ ] Eloquent JavaScript https://eloquentjavascript.net/
 - [ ] https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/ Free Code Camp
 - [ ] Net Ninja Node course https://www.youtube.com/watch?v=zb3Qk8SG5Ms&list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU
-- [ ] Net Ninja Typescript Course https://www.youtube.com/watch?v=2pZmKW9-I_k
+- [x] Net Ninja Typescript Course https://www.youtube.com/watch?v=2pZmKW9-I_k
 - [ ] Free Code Camp
 
 

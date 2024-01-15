@@ -19,7 +19,6 @@ Bad for:
 - Android since you need Java
 - No Django ecosystem
 
-
 https://napi.rs/ - Use this for Node.js integration
 
 After the book:

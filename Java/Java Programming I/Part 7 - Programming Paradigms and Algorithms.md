@@ -1,3 +1,4 @@
+#Java
 ## Programming Paradigms
 ___
 The most common programming paradigms today are object-oriented programming, procedural programming, and functional programming.

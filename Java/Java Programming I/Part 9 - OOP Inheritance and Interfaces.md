@@ -1,3 +1,4 @@
+#Java
 ## Class Inheritance
 ___
 Classes are used to clarify the concepts of the problem domain in object-oriented programming.
@@ -252,6 +253,5 @@ ___
 A bit poorly worded - 'reason to change' refers to the idea that every module, class, or function should only need changing if one external thing changes.
 
 For example, if the data that a class subsumes changes, you'll need to change that class to accommodate the new data. However, if the way that the data is retrieved also changes, then you'll also have to change your code. This class has 2 reasons to change. The more reasons the change, the more convoluted your code, and the harder it is to update and maintain.
-
 
 

@@ -1,3 +1,5 @@
+#Books
+
 Title:: Revolutionary Iran: A History of the Islamic Republic
 Date of Entry:: 31-10-2023
 Author:: Michael Axworthy
@@ -23,10 +25,6 @@ ___
 
 >[!info]
 >The British advise Reza Khan, who they had promoted to lead the Cossack brigade, that the British will not stand in the way if he was to led a coup. He marches on Tehran and makes Zia ol Din Tabatabaee Prime Minister. Eventually Reza gets made Prime Minister then gets crowned king.
-
-
-
-
 
 # Summary
 ___

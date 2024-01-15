@@ -1,3 +1,5 @@
+#TypeScript
+
 All JavaScript is TypeScript.
 
 TypeScript adds a number of features which are used to enforce type safety at compile time, at which your code is compiled to normal JavaScript.
