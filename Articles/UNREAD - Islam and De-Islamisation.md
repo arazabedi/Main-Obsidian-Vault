@@ -1,0 +1,1 @@
+https://www.marxists.org/archive/hekmat-mansoor/1999/01/islam.htm

@@ -1,0 +1,9 @@
+{
+  "storageFolder": "Books/Kobo Notes",
+  "includeCreatedDate": true,
+  "dateFormat": "DD/MM/YYYY",
+  "templatePath": "Templates/Kobo Imports.md",
+  "includeCallouts": true,
+  "highlightCallout": "quote",
+  "annotationCallout": "note"
+}

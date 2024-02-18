@@ -3,6 +3,7 @@ ___
 The Great - 9/10
 Foundation - 
 Ted Lasso - 7.5/10
+Lupin - 7/10
 
 Future Watching
 ___

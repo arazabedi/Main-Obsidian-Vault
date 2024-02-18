@@ -7,5 +7,10 @@
   "graph-analysis",
   "mermaid-tools",
   "obsidian-git",
-  "automatic-table-of-contents"
+  "automatic-table-of-contents",
+  "excalibrain",
+  "obsidian-excalidraw-plugin",
+  "dataview",
+  "obsidian-jtab",
+  "obsidian-kobo-highlights-importer-plugin"
 ]

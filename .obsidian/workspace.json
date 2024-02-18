@@ -4,19 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "73099938a3720612",
+        "id": "0e37c79df79ee499",
         "type": "tabs",
         "children": [
           {
-            "id": "7dbe6031261b8b30",
+            "id": "b2d7f06f20bda2c5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Piano/Cheat Sheets/The Piano Keyboard in All Keys.pdf"
+              }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -45,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TypeScript",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 200
   },
   "right": {
     "id": "4b04b6978e9876de",
@@ -90,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Piano/Cheat Sheets/The Piano Keyboard in All Keys.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Piano/Cheat Sheets/The Piano Keyboard in All Keys.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Piano/Cheat Sheets/The Piano Keyboard in All Keys.pdf"
+              }
             }
           },
           {
@@ -160,7 +165,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -190,53 +197,54 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kobo-highlights-importer-plugin:Import from Kobo": false
     }
   },
-  "active": "7dbe6031261b8b30",
+  "active": "b2d7f06f20bda2c5",
   "lastOpenFiles": [
-    "QA/Selenium, Cucumber etc./1. Installations and Intro.md",
-    "Tools and things.md",
-    "Javascript/Full Stack Open/Full-Stack Open - 2a Communicating with the Server - Rendering Collections and Modules.md",
-    "Solirius Interview/8. Potential Questions and Answers.md",
-    "Solirius Interview/1. Things to Prepare.md",
-    "SwiftCase Prep.md",
-    "SoftWire Pres.md",
+    "Guitar/Chords to Know.md",
+    "Piano/Cheat Sheets/The Piano Keyboard in All Keys.pdf",
+    "Piano/Cheat Sheets",
+    "Piano",
+    "Guitar/Cheat Sheets/Intervals & Scales Cheat Sheet.pdf",
+    "Guitar/Cheat Sheets/Chord Progression Cheat Sheet.pdf",
+    "Guitar/Cheat Sheets/The Circle of Fifths in All Keys.pdf",
+    "Guitar/Cheat Sheets/The Guitar Fretboard in All Keys.pdf",
+    "Guitar/Cheat Sheets/Pentatonic & Blues Scales Cheat Sheet.pdf",
+    "Guitar/Cheat Sheets/Chord Construction Cheat Sheet.pdf",
+    "Guitar/Chord Construction.md",
+    "Guitar/Cheat Sheets",
+    "Books/Kobo Notes/The Price of Peace.md",
+    "Books/Kobo Notes/Thinking in Systems A Primer.md",
+    "Templates/Kobo Imports.md",
+    "Books/Kobo Notes/A Nation of Shopkeepers.md",
+    "Books/Kobo Notes/Modern Monetary Theory and European Macroeconomics.md",
+    "Books/Kobo Notes/Politics On the Edge.md",
+    "Books/Kobo Notes/Ten Myths About Israel.md",
+    "Books/General Thoughts/Revolutionary Iran - Michael Axworthy.md",
+    "Books/General Thoughts/Ten Myths About Israel - Illan Pappe.md",
+    "Books/00 - List.md",
+    "Guitar/jTab Examples.md",
+    "Guitar/Songs/Eric Johnson - SRV.md",
+    "NestJS.md",
+    "Excalidraw/Drawing 2024-02-18 14.29.35.excalidraw.md",
+    "Untitled.md",
+    "Next.js/Template.md",
+    "Next.js/Next.js Official Course.md",
+    "Next.js/General Tips - Zod, Forms etc..md",
     "VSCode/Shortcuts.md",
     "VSCode/VScode Tips.md",
-    "Typescript/TypeScript for JavaScript Programmers.md",
-    "Typescript/General TypeScript Notes.md",
-    "Typescript/Net Ninja Typescript Masterclass/4. Generics.md",
-    "Typescript/Net Ninja Typescript Masterclass/3. Classes.md",
-    "Typescript/Net Ninja Typescript Masterclass/2. Interface and Type Alias Advanced.md",
-    "Typescript/Net Ninja Typescript Masterclass/1. TypeScript Basics.md",
-    "Learn.md",
-    "Java/Java Programming I/Part 1&2- The Basics + Loops & Methods.md",
-    "Javascript/JS Functional Programming/9.  Functors.md",
-    "Javascript/JS Functional Programming/10.  More Functors.md",
-    "Javascript/JS Functional Programming/11.  Streams.md",
-    "Javascript/JS Functional Programming/12.  Monads.md",
-    "Javascript/Full Stack Open/0 Fundamentals of Web Apps.md",
-    "Javascript/Full Stack Open/1a Intro to React.md",
-    "Javascript/Full Stack Open/1b JavaScript.md",
-    "Javascript/Functional Programming in JavaScript.md",
-    "Javascript/Fetch API.md",
+    "xxAnnual Goalsxx.md",
+    "xTODOx.md",
+    "Javascript/Tips and Tricks.md",
     "Images/Pasted image 20230603232000.png",
     "Images/Pasted image 20230217152022.png",
     "Images/Pasted image 20230217160520.png",
     "Images/Pasted image 20230209011451.png",
     "Images/Pasted image 20230208140045.png",
-    "Untitled",
-    "SQL",
     "Pasted image 20231129192145.png",
-    "Swift",
-    "Next.js",
-    "Media/Reviews",
-    "Media",
-    "Recipes",
-    "TV Shows",
-    "Daily Notes",
-    "Templates",
     "UI/Refactoring UI/Images/Pasted image 20230114170401.png",
     "UI/Refactoring UI/Images/Pasted image 20230114170330.png",
     "Images/Pasted image 20231031140917.png",

@@ -4,6 +4,18 @@ kanban-plugin: basic
 
 ---
 
+## Current
+
+- [ ] Net Ninja TypeScript Course
+- [ ] Mastering Behavioural Interviews FreeCodeCamp
+- [ ] How to Get a Developer Job FreeCodeCamp
+- [ ] SQLBolt
+- [ ] Bun FreeCodeCamp
+- [ ] Machine Learning Andrew Ng https://www.coursera.org/specializations/deep-learning?action=enroll&irgwc=1&utm_campaign=3294490&utm_content=b2c&utm_medium=partners&utm_source=impact
+- [ ] https://www.youtube.com/watch?v=5rNk7m_zlAg
+- [ ] Free Code Camp ASP.NET tutorial
+
+
 ## JavaScript
 
 - [ ] The JS Way - Complete all challenges

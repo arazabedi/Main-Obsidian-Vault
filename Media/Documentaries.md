@@ -1,4 +1,4 @@
-| Date Watched | Title | Rating | Notes | 
-| -------- | -------- | -------- | -------- |
-| 23/11/23 | Israel and the Arabs: The 50 Years War | ★★★★ |  Well worth rewatching given the interviews with key actors and explanation of momentous events | 
-| Item 4 | Item 5 | Item 6 |
+| Date Watched | Title | Rating | Notes |
+| ---- | ---- | ---- | ---- |
+| 23/11/23 | Israel and the Arabs: The 50 Years War | ★★★★ | Well worth rewatching given the interviews with key actors and explanation of momentous events |
+| Item 4 | Item 5 | Item 6 |  |

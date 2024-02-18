@@ -1,6 +1,8 @@
 #InterviewPreparation
 # Possible Questions
 
+###### Please introduce yourself.
+
 ###### What do you know about case and workflow management?
 
 Overview:
@@ -28,8 +30,6 @@ Automated Case Management:
 - More flexible, provides tools giving you information to drive quick, informed decisions
 - Allows you to stay on top of your tasks, checklists, and processes, but with flexibility to navigate casework differently each time
 - An example would be HR software that contains all the information needed to bring an employee on board and sends documents for signing etc. plus has access to benefits and payroll.
-
-
 
 ###### What is your experience with AWS?
 
@@ -88,3 +88,60 @@ Loads more...
 
 
 ###### What do you know about Swiftcase?
+
+###### What is your job history?
+
+Maths/logic/coding related
+###### What did you study?
+
+- Maths/logic related... grades for maths...
+- Focus in economics and philosophy was mathematics
+- Maths Tutor
+###### What projects have you done?
+- Le Wagon DreamTeam/Pawsome (Ruby, Rails, PostgreSQL)
+- Leeds Think Tank (React/Laravel/PHP)
+- Anahita Restaurant/Hotel
+- UCM website
+- Tell stories about what projects you've done in order to explain programming aptitude
+- Sectoral balance Java project
+###### Why are you passionate about software engineering?
+- Tell a story: projects completed, working as an accounts assistant and wanting to improve processes
+- Why I used different languages for different project
+- High capacity for learning JavaScript ecosystem
+- I like to learn other technologies because they give a different perspective - I mainly am in this ecosystem but I'm also aware of and like to learn about other technologies
+- Make more stories...
+###### Why React?
+- Mature ecosystem
+- Lots of libraries
+
+###### Do you have any questions for us?
+- What does an average day look like?
+- What's the relationship between colleagues like?
+- How is the management?
+- How would you describe the team dynamic and company culture?
+- What does professional development and growth look like in the company?
+- Can you tell me more about the team I'll be working with and their backgrounds?
+- What challenges is the team currently facing, and how do you see the role addressing those challenges?
+- What is the next step in the hiring process?
+###### Biggest weakness?
+
+###### Biggest strength?
+
+###### General
+- Listen
+- If you don't understand, ask again - don't generate a question
+- Listen actively
+- Call recruiter and ask who is interviewing me (HR or tech person) and what's the interview going to be focussed on?
+- Find LinkedIn of interviewers - are they project managers (task, Jira, GitLab, CRM, SDLC questions) or software engineers (technical/languages/framework focussed questions) or tester (test questions)
+- **Make Stories**
+- Make gestures
+- Smile
+- Move your hands
+
+### After a year experience
+###### Behavioural
+- How do you interact with people?
+- Did you learn technologies yourself and implement them in the company.
+- Be proactive and learn technologies yourself, and push to use them in your work.
+###### Technical
+- What tasks did you do?

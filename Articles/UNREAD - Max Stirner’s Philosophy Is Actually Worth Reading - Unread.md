@@ -1,0 +1,1 @@
+https://jacobin.com/2024/02/max-stirner-proletariat-philosophy-duncker

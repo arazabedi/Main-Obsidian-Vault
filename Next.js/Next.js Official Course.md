@@ -459,7 +459,7 @@ Benefits:
 - User-Specific Content (based on user input)
 - Request Time Information (e.g. needs cookies or URL search parameters)
 
-To OPT-OUT of static rendering, use `unstable_noStore`. This indicates that a particular component should no be cached. This is equivalent to:
+To OPT-OUT of static rendering, use `unstable_noStore`. This indicates that a particular component should not be cached. This is equivalent to:
 
 ```js
 `cache: 'no-store'`

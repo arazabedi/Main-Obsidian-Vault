@@ -4,7 +4,7 @@
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "path:Articles  ",
+      "color": {
+        "a": 1,
+        "rgb": 12086175
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +60,6 @@
   "repelStrength": 10.9187825520833,
   "linkStrength": 1,
   "linkDistance": 130,
-  "scale": 0.6637143118231617,
+  "scale": 0.7299724499377732,
   "close": true
 }
