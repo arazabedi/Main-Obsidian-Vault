@@ -1,0 +1,6 @@
+I am drawn to Digital Futures because I have researched your mission and followed the success stories of individuals who have been trained by your program. It’s clear that Digital Futures is making a significant impact, not only in the tech industry but also in the lives of people breaking into tech. I am particularly impressed by your commitment to providing opportunities to individuals from various professional backgrounds and helping them secure their first job in tech. I am eager to contribute to this mission by working closely with Digital Futures' clients, striving for excellence in my role. By doing so, I hope to enhance the company’s reputation, attract more clients, and ultimately enable even more people to benefit from your training programs. Additionally, I believe I possess the skills that align well with your needs. I am a proactive problem solver, responsible, and adaptable to new challenges. I thrive in team settings, where I contribute to achieving goals and celebrate our successes together. I am excited about the opportunity to support and advance Digital Futures' mission.
+
+Pro skills was useful.
+Appreciate the whole full-stack.
+Thank the interviewer for their time and the opportunity to interview.
+

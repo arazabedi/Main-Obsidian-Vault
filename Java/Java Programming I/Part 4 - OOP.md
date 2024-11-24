@@ -250,8 +250,6 @@ For example you can store Persons:
 ArrayList<Person> persons = new ArrayList<>();
 ```
 
-
-
 ## Files and Reading Data
 ___
 ```java

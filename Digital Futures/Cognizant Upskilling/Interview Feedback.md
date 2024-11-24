@@ -1,0 +1,13 @@
+- Comfortable engaging with others
+- Creative approach was good
+- Focus on improving time management
+- Unit tests need to improve
+- Clean code and relevant test cases
+- Method naming good and clear but add comments for all methods
+- Build more specific error handling in try/catch
+- Use promises more
+- As a consultant - you need to be very concise. Don't ramble. The client needs to be convinced of you and the process at Cognizant.
+- Rambling confidently can make clients feel like they're being tricked.
+- Unconfident rambling can cause them to doubt you.
+- Share naming conventions with team at Cognizant - look at my capstone.
+

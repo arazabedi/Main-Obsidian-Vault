@@ -1,0 +1,6 @@
+
+At a recent tech camp, my proudest achievement was collaborating with a partner to develop a full-stack application. Early on, we realized that team cohesion would be critical to our success, so we invested time upfront to get the rhythm and communication right. This helped us become more cohesive, which paid dividends throughout the project, especially when deadlines approached.
+
+By establishing a strong workflow and regular check-ins, we not only stayed on track but also hit key milestones ahead of time. We finished the project on schedule and received positive feedback for both the functionality and user experience of the application.
+
+The most significant impact was that our approach to teamwork directly contributed to delivering the project on time while maintaining high quality. What I’ve taken from this experience is the value of investing in team dynamics early, which is something I’ll carry forward in future projects. Effective communication, clear goal-setting, and fostering social cohesion are now pillars in how I approach collaborative work.

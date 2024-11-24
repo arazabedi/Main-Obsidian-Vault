@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0e37c79df79ee499",
+        "id": "1cdf0c84a7b408f0",
         "type": "tabs",
         "children": [
           {
-            "id": "b2d7f06f20bda2c5",
+            "id": "ab2a0f8ef0a4735f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Piano/Cheat Sheets/The Piano Keyboard in All Keys.pdf"
-              }
+                "file": "Digital Futures/Cognizant Upskilling/Mastering LINQ with C-sharp and .NET.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mastering LINQ with C-sharp and .NET"
             }
           }
         ]
@@ -37,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -60,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -68,14 +78,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "4b04b6978e9876de",
@@ -91,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Piano/Cheat Sheets/The Piano Keyboard in All Keys.pdf",
+                "file": "Digital Futures/Cognizant Interview/General Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +112,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for General Notes"
             }
           },
           {
@@ -108,10 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Piano/Cheat Sheets/The Piano Keyboard in All Keys.pdf",
+                "file": "Digital Futures/Cognizant Interview/General Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from General Notes"
             }
           },
           {
@@ -122,7 +139,9 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -131,8 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Piano/Cheat Sheets/The Piano Keyboard in All Keys.pdf"
-              }
+                "file": "Digital Futures/Cognizant Interview/General Notes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of General Notes"
             }
           },
           {
@@ -140,23 +161,19 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
             "id": "f637250324a9aff7",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
-          },
-          {
-            "id": "21ea6d8e3aea8ccc",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {}
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -168,7 +185,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -176,11 +195,43 @@
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
-              "state": {}
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
+          },
+          {
+            "id": "b0ff11dea7644d37",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          },
+          {
+            "id": "676fd03222d75508",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "51ae2a1bca78c140",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -199,55 +250,58 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-kobo-highlights-importer-plugin:Import from Kobo": false
+      "obsidian-kobo-highlights-importer-plugin:Import from Kobo": false,
+      "notion-like-tables:Create loom": false
     }
   },
-  "active": "b2d7f06f20bda2c5",
+  "active": "ab2a0f8ef0a4735f",
   "lastOpenFiles": [
-    "Guitar/Chords to Know.md",
-    "Piano/Cheat Sheets/The Piano Keyboard in All Keys.pdf",
-    "Piano/Cheat Sheets",
-    "Piano",
+    "Digital Futures/Cognizant Upskilling/Complete C-Sharp Programming Master Class.md",
+    "Digital Futures/Cognizant Upskilling/Mastering LINQ with C-sharp and .NET.md",
+    "Digital Futures/Cognizant Upskilling/Interview Feedback.md",
+    "Digital Futures/Competency Questions/Helped Colleague (Implementing auth).md",
+    "Images/Pasted image 20240508110355.png",
+    "Digital Futures/Puzzle Completions/Pyramid Challenge.md",
+    "Digital Futures/Puzzle Completions",
+    "Screenshot 2024-11-21 at 15.08.34.png",
+    "Digital Futures/Cognizant Interview/General Notes.md",
+    "Digital Futures/Cognizant Upskilling",
+    "Digital Futures/Competency Questions/FOCUS.md",
+    "Digital Futures/Cognizant Interview/Untitled.md",
+    "Digital Futures/Cognizant Interview",
+    "Digital Futures/Competency Questions/Disagreement Resolution.md",
+    "Digital Futures/Competency Questions/Customer Service - Pangea.md",
+    "Digital Futures/Competency Questions/Complex Project (Digital Futures Hackathon).md",
+    "Digital Futures/Competency Questions/Capstone Project.md",
+    "Digital Futures/Competency Questions/Why DF?.md",
+    "Startup/10 Minute Lowdown.md",
+    "Startup",
+    "Digital Futures/Competency Questions/Social Cohesion.md",
+    "Java/Marco Behler Spring/1. Java Web Apps without Spring.md",
+    "Pasted image 20241005143906.png",
+    "Digital Futures/Challenge 4.md",
+    "Java/Marco Behler Spring",
+    "Python/Django Tips.md",
+    "Digital Futures/Google Cloud/Module 3 - AI & ML.md",
+    "Untitled.md",
+    "Python/Untitled",
+    "Python",
+    "Pasted image 20240926135312.png",
+    "Pasted image 20240926134703.png",
+    "Pasted image 20240926134300.png",
+    "Pasted image 20240925120200.png",
+    "Pasted image 20240925115014.png",
+    "Pasted image 20240924130412.png",
+    "Pasted image 20240924125203.png",
+    "Digital Futures/Google Cloud/Module 1 - Introduction.md",
+    "Photography.md",
+    "PHP notes.md",
     "Guitar/Cheat Sheets/Intervals & Scales Cheat Sheet.pdf",
     "Guitar/Cheat Sheets/Chord Progression Cheat Sheet.pdf",
-    "Guitar/Cheat Sheets/The Circle of Fifths in All Keys.pdf",
-    "Guitar/Cheat Sheets/The Guitar Fretboard in All Keys.pdf",
-    "Guitar/Cheat Sheets/Pentatonic & Blues Scales Cheat Sheet.pdf",
     "Guitar/Cheat Sheets/Chord Construction Cheat Sheet.pdf",
-    "Guitar/Chord Construction.md",
-    "Guitar/Cheat Sheets",
-    "Books/Kobo Notes/The Price of Peace.md",
-    "Books/Kobo Notes/Thinking in Systems A Primer.md",
-    "Templates/Kobo Imports.md",
-    "Books/Kobo Notes/A Nation of Shopkeepers.md",
-    "Books/Kobo Notes/Modern Monetary Theory and European Macroeconomics.md",
-    "Books/Kobo Notes/Politics On the Edge.md",
-    "Books/Kobo Notes/Ten Myths About Israel.md",
-    "Books/General Thoughts/Revolutionary Iran - Michael Axworthy.md",
-    "Books/General Thoughts/Ten Myths About Israel - Illan Pappe.md",
-    "Books/00 - List.md",
-    "Guitar/jTab Examples.md",
     "Guitar/Songs/Eric Johnson - SRV.md",
-    "NestJS.md",
-    "Excalidraw/Drawing 2024-02-18 14.29.35.excalidraw.md",
-    "Untitled.md",
-    "Next.js/Template.md",
-    "Next.js/Next.js Official Course.md",
-    "Next.js/General Tips - Zod, Forms etc..md",
-    "VSCode/Shortcuts.md",
-    "VSCode/VScode Tips.md",
-    "xxAnnual Goalsxx.md",
-    "xTODOx.md",
-    "Javascript/Tips and Tricks.md",
-    "Images/Pasted image 20230603232000.png",
-    "Images/Pasted image 20230217152022.png",
-    "Images/Pasted image 20230217160520.png",
-    "Images/Pasted image 20230209011451.png",
-    "Images/Pasted image 20230208140045.png",
-    "Pasted image 20231129192145.png",
-    "UI/Refactoring UI/Images/Pasted image 20230114170401.png",
-    "UI/Refactoring UI/Images/Pasted image 20230114170330.png",
-    "Images/Pasted image 20231031140917.png",
-    "Images/Pasted image 20230603131519.png"
+    "Guitar/jTab Examples.md",
+    "Digital Futures/Google Cloud/Module 2.md",
+    "Untitled.canvas"
   ]
 }
