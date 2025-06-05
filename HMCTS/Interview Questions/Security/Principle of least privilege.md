@@ -1,0 +1,3 @@
+- Give the users and systems the minimum level of access they need in order to perform their functions and nothing more
+- This means that a compromised account or bug can only cause limited damage
+- For example, public users should have a read-only database role and only admins should be able to write/delete

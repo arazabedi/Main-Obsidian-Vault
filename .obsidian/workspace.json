@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "1cdf0c84a7b408f0",
+        "id": "7ba5cdd76d7fa0a6",
         "type": "tabs",
         "children": [
           {
-            "id": "ab2a0f8ef0a4735f",
+            "id": "2cdf25e68af9cc54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Futures/Cognizant Upskilling/Mastering LINQ with C-sharp and .NET.md",
+                "file": "Java/Ed's Spring Video.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mastering LINQ with C-sharp and .NET"
+              "title": "Ed's Spring Video"
+            }
+          },
+          {
+            "id": "f6f3ed8261cd8095",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HMCTS/Interview Prep Plan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interview Prep Plan"
+            }
+          },
+          {
+            "id": "9fc2ab299e56054e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HMCTS/Interview Questions/Likely Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Likely Questions"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -40,7 +69,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -87,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 359.50312423706055
   },
   "right": {
     "id": "4b04b6978e9876de",
@@ -224,6 +253,136 @@
             "id": "51ae2a1bca78c140",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "a4da701c2c9e6f79",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "8a3df79526a388a7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "a10685447b1d6e67",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "381f573d73185906",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "6feb53a7747d2291",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "fbebeb2bbcbaa506",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "0cd1d99276605ef9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "1432f9f47c8579ca",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "97aaa0ff54a814bc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "4869964dfacab104",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b4e346a1e36553f1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "bdfb044d39a91d53",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "a0ec81e29ee88d7f",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -231,7 +390,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 23
       }
     ],
     "direction": "horizontal",
@@ -254,54 +413,54 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "ab2a0f8ef0a4735f",
+  "active": "9fc2ab299e56054e",
   "lastOpenFiles": [
-    "Digital Futures/Cognizant Upskilling/Complete C-Sharp Programming Master Class.md",
-    "Digital Futures/Cognizant Upskilling/Mastering LINQ with C-sharp and .NET.md",
-    "Digital Futures/Cognizant Upskilling/Interview Feedback.md",
-    "Digital Futures/Competency Questions/Helped Colleague (Implementing auth).md",
-    "Images/Pasted image 20240508110355.png",
-    "Digital Futures/Puzzle Completions/Pyramid Challenge.md",
-    "Digital Futures/Puzzle Completions",
-    "Screenshot 2024-11-21 at 15.08.34.png",
-    "Digital Futures/Cognizant Interview/General Notes.md",
-    "Digital Futures/Cognizant Upskilling",
-    "Digital Futures/Competency Questions/FOCUS.md",
-    "Digital Futures/Cognizant Interview/Untitled.md",
-    "Digital Futures/Cognizant Interview",
-    "Digital Futures/Competency Questions/Disagreement Resolution.md",
-    "Digital Futures/Competency Questions/Customer Service - Pangea.md",
-    "Digital Futures/Competency Questions/Complex Project (Digital Futures Hackathon).md",
-    "Digital Futures/Competency Questions/Capstone Project.md",
-    "Digital Futures/Competency Questions/Why DF?.md",
-    "Startup/10 Minute Lowdown.md",
-    "Startup",
-    "Digital Futures/Competency Questions/Social Cohesion.md",
-    "Java/Marco Behler Spring/1. Java Web Apps without Spring.md",
-    "Pasted image 20241005143906.png",
-    "Digital Futures/Challenge 4.md",
-    "Java/Marco Behler Spring",
-    "Python/Django Tips.md",
-    "Digital Futures/Google Cloud/Module 3 - AI & ML.md",
+    "HMCTS/Interview Questions/Security/Prevent SQL injection.md",
+    "HMCTS/Interview Questions/Likely Questions.md",
+    "HMCTS/Interview Questions/Security/Principle of least privilege.md",
+    "HMCTS/Interview Questions/Security/Prevent Cross-site scripting.md",
+    "HMCTS/Interview Questions/Security/HMCTS-specific legal & compliance considerations.md",
+    "HMCTS/Interview Questions/Security/Protect data in transit and rest.md",
+    "HMCTS/Interview Questions/Security/Store passwords securely.md",
+    "HMCTS/Interview Questions/Security/Secure software development practices.md",
+    "HMCTS/Interview Questions/HMCTS Specific/GOV.UK design system and GDP service standards.md",
+    "HMCTS/Interview Questions/Modern coding/Good RESTful API.md",
+    "HMCTS/Interview Questions/Integrating systems/Integrating a new microservice.md",
+    "HMCTS/Interview Questions/Integrating systems/What types of system integration do you know?.md",
+    "HMCTS/Interview Prep Plan.md",
+    "HMCTS/Interview Questions/Modern coding/Testing code.md",
+    "HMCTS/Interview Questions/Modern coding/Clean and maintainable code.md",
+    "HMCTS/Interview Questions/Integrating systems",
+    "HMCTS/Interview Questions/HMCTS Specific",
+    "HMCTS/Interview Questions/Modern coding",
+    "HMCTS/Interview Questions/Security",
+    "HMCTS/Interview Questions",
+    "Photography/Tips and Tricks.md",
+    "HMCTS",
+    "Next.js/Next.js Official Course.md",
+    "Photography",
+    "Java/Engineering Challenges For Spring.md",
     "Untitled.md",
-    "Python/Untitled",
-    "Python",
-    "Pasted image 20240926135312.png",
-    "Pasted image 20240926134703.png",
-    "Pasted image 20240926134300.png",
-    "Pasted image 20240925120200.png",
-    "Pasted image 20240925115014.png",
-    "Pasted image 20240924130412.png",
-    "Pasted image 20240924125203.png",
-    "Digital Futures/Google Cloud/Module 1 - Introduction.md",
-    "Photography.md",
-    "PHP notes.md",
-    "Guitar/Cheat Sheets/Intervals & Scales Cheat Sheet.pdf",
-    "Guitar/Cheat Sheets/Chord Progression Cheat Sheet.pdf",
-    "Guitar/Cheat Sheets/Chord Construction Cheat Sheet.pdf",
-    "Guitar/Songs/Eric Johnson - SRV.md",
-    "Guitar/jTab Examples.md",
-    "Digital Futures/Google Cloud/Module 2.md",
-    "Untitled.canvas"
+    "Java/Ed's Spring Video.md",
+    "Java/Marco Behler Spring/1. Java Web Apps without Spring.md",
+    "Finance/Options Strategies.md",
+    "Finance/Options Spreads.md",
+    "Digital Futures/Cognizant Upskilling/MB-230 Notes/Big Session - Copilot & SLAs.md",
+    "Finance/Futures & Options.md",
+    "Digital Futures/Cognizant Upskilling/MB-230 Notes/Customer Voice and Collaboration.md",
+    "Screenshot 2024-11-21 at 15.08.34.png",
+    "Digital Futures/Challenges",
+    "Digital Futeres",
+    "Untitled.canvas",
+    "Digital Futures/Cognizant Upskilling/Exam Q Screenshots/SCR-20250109-kcpu.png",
+    "Work Tracker Looms/11.3-17.3.loom",
+    "Images/Pasted image 20241127233010.png",
+    "Images/Pasted image 20250108182417.png",
+    "Images/Pasted image 20250108182040.png",
+    "Digital Futures/Cognizant Upskilling/Exam Q Screenshots/Pasted image 20250109095432.png",
+    "Digital Futures/Cognizant Upskilling/Exam Q Screenshots/Pasted image 20250109105627.png",
+    "Digital Futures/Cognizant Upskilling/Exam Q Screenshots/Pasted image 20250109105410.png",
+    "Images/Pasted image 20250109010956.png",
+    "Digital Futures/Cognizant Upskilling/Exam Q Screenshots/Pasted image 20250109101221.png"
   ]
 }

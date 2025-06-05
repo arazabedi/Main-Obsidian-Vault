@@ -1,6 +1,6 @@
-# Basics
-
-## Compilation
+```table-of-contents
+```
+# Compilation
 
 Compile .cs file to exe:
 ```bash
@@ -41,7 +41,7 @@ dotnet publish -r osx-x64 --self-contained true -p:PublishSingleFile=true
 ```
 
 
-## Debugging
+# Debugging
 
 - Debugger (specific tool)
 - Stepping
@@ -56,7 +56,7 @@ Types of Mistakes:
 - Runtime Error
 - Memory Leak (memory not released after use)
 
-## String Manipulation
+# String Manipulation
 
 - Standard Concatenation
 - Composite:
@@ -89,7 +89,7 @@ word.substring(1) // rave
 - IndexOf - find the starting index of a particular substring of a string
 - IsNull & WhiteSpace - returns true when it's null or there's a whitespace
 
-## OOP
+# OOP
 
 Yes, C# classes are very similar to Java classes in terms of syntax and structure because both are object-oriented programming (OOP) languages derived from C-style syntax. However, there are some notable differences and features unique to C# that you should be aware of if you're transitioning from Java. Here's a quick rundown:
 
@@ -494,8 +494,6 @@ In practice:
 - Use **private fields with explicit getters/setters** when you need more control, just like in Java.
 
 Does this help clarify the differences?
-
-
 ##### OOP Principles
 - _Abstraction_ - Modeling the relevant attributes and interactions of entities as classes to define an abstract representation of a system.
 - _Encapsulation_ - Hiding the internal state and functionality of an object and only allowing access through a public set of functions.
@@ -508,7 +506,7 @@ Encapsulation - use access modifiers to hide properties and methods:
 - Protected - class + child classes
 - Internal - accessible within the project
 
-## LINQ
+# LINQ
 
 LINQ is a way to query data:
 
@@ -706,7 +704,7 @@ foreach (var book in booksByAuthor)
 }
 ```
 
-## File I/O and Serialization
+# File I/O and Serialization
 
 ##### File I/O
 
@@ -816,7 +814,7 @@ class Program
 
 ```
 
-## Asynchronous Programming and Threading
+# Asynchronous Programming and Threading
 
 ##### Threads & Task Parallel Library (TPL)
 
@@ -1281,3 +1279,132 @@ If you don't use`Join()`, the Main thread will go ahead and execute whatever tas
 - Avoid Excessive Blocking - using Join can lead to the main thread or other threads being unnecessarily blocked. Ensure you actually need to wait for the worker thread.
 - Handle Timeouts - Always consider whether a timeout is appropriate. Long waits can make your application unresponsive.
 - Use Alternatives if Possible - For more complex synchronization scenarios, consider using higher-level concurrency primitives like Task, Task.Wait, or async/await.
+
+# Specific Features To Remember
+
+## Primary Constructors
+
+Allows you to define class properties (fields) directly in parentheses after the class name declaration:
+
+```c#
+public class Person(string name, int age)
+{
+    // No need to explicitly define Name and Age properties
+}
+```
+
+C# automatically declares the properties:
+
+```c#
+public class Person(string name, int age)
+{
+	// You don't need to add this - it's automatic
+    public string Name { get; } = name.ToUpper;
+    public int Age { get; } = age;
+}
+
+```
+
+You can explicitly declare properties if you wish to add logic to the getters and/or setters:
+
+```c#
+public class Person(string name, int age)
+{
+    // Properties automatically defined by the primary constructor
+    public string Name { get; } = name.ToUpper;
+    public int Age { get; } = age;
+
+    // Additional methods or logic can use the properties
+    public void Introduce()
+    {
+        Console.WriteLine($"Hi, I'm {Name} and I'm {Age} years old.");
+    }
+}
+```
+
+**Key Points:**
+
+1. **By Default**: The primary constructor parameters automatically generate `public readonly` properties with the same names as the parameters.
+2. **Customisation**: If you need to add custom behaviour, you can define the properties explicitly within the class body.
+
+## Dependency Injection
+
+If you have a class that contains property with a value of an object, make sure to pass that object in the constructor, rather than using the `new` keyword to create it in the constructor.
+
+**Step 1: Define an Interface**
+
+```c#
+public interface IEngine
+{
+    void Start();
+}
+```
+
+**Step 2: Implement the Interface**
+
+```c#
+public class PetrolEngine : IEngine
+{
+    public void Start()
+    {
+        Console.WriteLine("Petrol Engine started.");
+    }
+}
+
+public class DieselEngine : IEngine
+{
+    public void Start()
+    {
+        Console.WriteLine("Diesel Engine started.");
+    }
+}
+```
+
+**Step 3: Inject the Dependency into the Consumer Class**
+
+```c#
+public class Car
+{
+    private readonly IEngine _engine;
+
+    // Constructor Injection
+    public Car(IEngine engine)
+    {
+        _engine = engine;
+    }
+
+    public void StartCar()
+    {
+        _engine.Start();
+        Console.WriteLine("Car is running.");
+    }
+}
+
+```
+
+**Step 4: Configure and Use Dependency Injection**
+
+In a real-world application, a DI container like `Microsoft.Extensions.DependencyInjection` would handle this, but here's a manual example:
+
+```c#
+class Program
+{
+    static void Main(string[] args)
+    {
+        // Create a dependency (DieselEngine or PetrolEngine)
+        IEngine engine = new DieselEngine();
+
+        // Inject the dependency into the Car
+        Car myCar = new Car(engine);
+
+        // Use the Car
+        myCar.StartCar();
+    }
+}
+```
+
+### Key Benefits:
+
+1. **Flexibility**: You can easily switch the engine type without modifying the `Car` class.
+2. **Testability**: You can mock the `IEngine` interface for testing purposes.
+3. **Decoupling**: The `Car` class doesn't depend on specific implementations of `IEngine`.

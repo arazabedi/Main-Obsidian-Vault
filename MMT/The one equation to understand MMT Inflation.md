@@ -17,7 +17,7 @@ assessing aggregates.  The most important aggregate
 is the total value of outstanding financial assets which
 are issued by that entity.
 
-The underlying reason, is that governments do not issue
+The underlying reason is that governments do not issue
 shares.  Because there are no shareholders, and there 
 is no real valuation for governments, it is impossible to
 assess solvency.

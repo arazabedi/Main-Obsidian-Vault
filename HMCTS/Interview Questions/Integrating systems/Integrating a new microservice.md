@@ -1,0 +1,3 @@
+- Integrating a new micro-service with a legacy system is a delicate process.
+- It's as much about architecture and risk management as it is about code.
+- The approach should be focused on isolation, abstraction, and gradual.

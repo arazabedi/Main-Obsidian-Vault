@@ -4,5 +4,8 @@
   "theme": "obsidian",
   "cssTheme": "",
   "baseFontSize": 17,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [],
+  "interfaceFontFamily": "Fira Code",
+  "textFontFamily": "Atkinson Hyperlegible",
+  "monospaceFontFamily": "Fira Code"
 }

@@ -1,4 +1,3 @@
-
 What you need:
 2-4 people, at least 50% tech
 1 year of cash for ramen

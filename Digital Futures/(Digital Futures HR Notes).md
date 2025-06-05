@@ -1,0 +1,19 @@
+- HR Portal - Bob (only Stephanie has access to personal information)
+		- Annual Leave Requests (don't pay for unused holiday) - get prior approval from Cognizant
+		- Sick Leave
+		- Jury Service
+		- Furlough
+		- Timesheets - once a month (but ideally weekly)
+		- Updating address/bank information (Stephanie gets notified and tells payroll)
+		- Community section - other people's annual leave, birthdays, like a company LinkedIn, give kudos to peers.
+		- Bob has an app
+- Payroll site- myepaywindow
+	 - Payday - last working day of the calendar month (payslip 2 days prior)
+	 - Payslips in the portal
+	 - Sent to personal email
+- Aviva pension (automatic) - just opt out, it's 70 quid a month for nothing
+- Digital futures rewards gateway
+- Wellbeing centre - has an employee assistance programme (confidential helpline that can help with lots of mental health issues - not monitored by DF but they do know when people use it)
+- Doctorline - 24/7 video consultation with a doctor plus prescription service
+- Vouchers for specsavers (free check-up) + £70 off glasses
+- GDPR - mandatory training required (link via Noodle)

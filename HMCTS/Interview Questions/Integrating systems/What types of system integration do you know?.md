@@ -1,0 +1,2 @@
+- The most common pattern is RESTful APIs for synchronous, request-response integration between services.
+- For asynchronous integration, where a service can publish events without needing a request, I've dabbled with RabbitMQ and Kafka. Other services can react without tight coupling or risking downstream bottlenecks. This is useful when building scalable, event-driven architectures.
